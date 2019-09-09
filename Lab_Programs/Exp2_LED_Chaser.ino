@@ -1,5 +1,5 @@
 /*Program for LED chaser back and forth.
-  Pin 4, 5, 6 and 7 are connected
+  Pin 4, 5 and 6 are connected
  */
  
 void setup() {                
