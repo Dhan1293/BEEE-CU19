@@ -1,4 +1,3 @@
-
 int sensorValue = 0;
 void setup()
 {
